@@ -14,7 +14,6 @@
 export default {
   methods: {
     goToMenu() {
-      //Difference between .go(1)/.go(-1) and .replace('/menu')/.replace({ name: "menuLink" })
       this.$router.push({ name: "menuLink" });
     }
   }
