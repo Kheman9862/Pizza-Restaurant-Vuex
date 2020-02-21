@@ -13,6 +13,6 @@ npm run dev
 # build for production with minification
 npm run build
 
-# For Username and Password drop me a message in my email:
+# For Username and Password for admin section authentication drop me a message in my email:
   email id: garg.kheman1996@gmail.com
 ```
